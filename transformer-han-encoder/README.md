@@ -1,6 +1,6 @@
 This is a DyNet implementation of Tranformer-HAN-encoder (https://www.aclweb.org/anthology/D18-1325/) used in our ACL'20 paper:
 
-KayYen Wong, Sameen Maruf and Gholamreza Haffari: Contextual Neural Machine Translation Improves Translation of Cataphoric Pronouns. Accepted at ACL 2020.
+KayYen Wong, Sameen Maruf and Gholamreza Haffari: Contextual Neural Machine Translation Improves Translation of Cataphoric Pronouns. 
 
 Please cite our paper if you use this implementation. 
 
@@ -39,9 +39,7 @@ Compiling to execute on a CPU is as follows
 
 Boost note. The "-DBoost_NO_BOOST_CMAKE=ON" can be optional but if you have a trouble of boost-related build error(s), adding it will help to overcome. 
 
-MKL support. If you have Intel's MKL library installed on your machine, you can speed up the computation on the CPU by:
-
-    cmake .. -DEIGEN3_INCLUDE_DIR=EIGEN_PATH -DMKL=TRUE -DMKL_ROOT=MKL_PATH -DBoost_NO_BOOST_CMAKE=TRUE -DENABLE_BOOST=TRUE
+    cmake .. -DEIGEN3_INCLUDE_DIR=EIGEN_PATH -DBoost_NO_BOOST_CMAKE=TRUE -DENABLE_BOOST=TRUE
 
 substituting in your EIGEN_PATH. 
 
