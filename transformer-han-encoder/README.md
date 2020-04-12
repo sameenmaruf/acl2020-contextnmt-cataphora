@@ -83,7 +83,7 @@ The original Transformer implementation used in our code is available at https:/
 
 ## Contacts
 
-Sameen Maruf (sameen.maruf@monash.edu; sameen.maruf@gmail.com)
+Sameen Maruf (sameen.maruf@monash.edu)
 
 ---
 Updated April 2020
