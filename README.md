@@ -6,7 +6,7 @@ The data is available at:
 
 Please cite our paper if you use the data or the code. 
 
-Note:
+*Note*:
 
 Whatever data set you use with our implementation, you need to add the BOS and EOS tokens (represented by `<s>` and `</s>`) to the source and target sentences yourself.
 
