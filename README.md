@@ -12,7 +12,8 @@ Whatever data set you use with our implementation, you need to add the BOS and E
 
 Also you may need to unkify (replace by `<unk>`) the tokens in dev and test sets which do not exist in the training set.
 
-# Contacts
+### Contacts
 
 Cataphora Test Suite: KayYen Wong (kywon63@student.monash.edu)
+
 Code: Sameen Maruf (sameen.maruf@monash.edu)
