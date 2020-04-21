@@ -14,6 +14,6 @@ Also you may need to unkify (replace by `<unk>`) the tokens in dev and test sets
 
 ### Contacts
 
-Cataphora Test Suite: KayYen Wong (kywon63@student.monash.edu)
+Cataphora Test Suite: KayYen Wong (kayyenwong@gmail.com)
 
 Code: Sameen Maruf (sameen.maruf@monash.edu)
