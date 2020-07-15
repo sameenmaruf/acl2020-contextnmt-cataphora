@@ -2,7 +2,7 @@ This repository contains the code (a DyNet implementation of Tranformer-HAN-enco
 
 KayYen Wong, Sameen Maruf and Gholamreza Haffari. Contextual Neural Machine Translation Improves Translation of Cataphoric Pronouns. 
 
-The data can be downloaded from: https://drive.google.com/open?id=117Yb8bW1zJi9dNwcBT5mf7Hikda6fybY 
+The data can be downloaded from: https://drive.google.com/file/d/117Yb8bW1zJi9dNwcBT5mf7Hikda6fybY/view?usp=sharing 
 
 Please cite our paper if you use the data or the code. 
 
